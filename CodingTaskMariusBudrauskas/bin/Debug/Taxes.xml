@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Taxes>
+  <Tax>
+    <type>Yearly</type>
+    <atDay></atDay>
+    <from>2016-01-01</from>
+    <to>2016-12-31</to>
+    <municipality>Vilnius</municipality>
+    <taxPrice>0.2</taxPrice>
+  </Tax>
+  <Tax>
+    <type>Monthly</type>
+    <atDay></atDay>
+    <from>2016-05-01</from>
+    <to>2016-05-31</to>
+    <municipality>Vilnius</municipality>
+    <taxPrice>0.4</taxPrice>
+  </Tax>
+  <Tax>
+    <type>Daily</type>
+    <atDay>2016-01-01</atDay>
+    <from></from>
+    <to></to>
+    <municipality>Vilnius</municipality>
+    <taxPrice>0.1</taxPrice>
+  </Tax>
+  <Tax>
+    <type>Daily</type>
+    <atDay>2016-12-25</atDay>
+    <from></from>
+    <to></to>
+    <municipality>Vilnius</municipality>
+    <taxPrice>0.1</taxPrice>
+  </Tax>
+</Taxes>

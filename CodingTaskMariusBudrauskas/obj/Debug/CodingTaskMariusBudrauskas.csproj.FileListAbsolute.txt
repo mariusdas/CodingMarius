@@ -1,0 +1,9 @@
+C:\Users\Marius\source\repos\CodingTaskMariusBudrauskas\CodingTaskMariusBudrauskas\bin\Debug\Input.txt
+C:\Users\Marius\source\repos\CodingTaskMariusBudrauskas\CodingTaskMariusBudrauskas\bin\Debug\Taxes.xml
+C:\Users\Marius\source\repos\CodingTaskMariusBudrauskas\CodingTaskMariusBudrauskas\bin\Debug\CodingTaskMariusBudrauskas.exe.config
+C:\Users\Marius\source\repos\CodingTaskMariusBudrauskas\CodingTaskMariusBudrauskas\bin\Debug\CodingTaskMariusBudrauskas.exe
+C:\Users\Marius\source\repos\CodingTaskMariusBudrauskas\CodingTaskMariusBudrauskas\bin\Debug\CodingTaskMariusBudrauskas.pdb
+C:\Users\Marius\source\repos\CodingTaskMariusBudrauskas\CodingTaskMariusBudrauskas\obj\Debug\CodingTaskMariusBudrauskas.csprojAssemblyReference.cache
+C:\Users\Marius\source\repos\CodingTaskMariusBudrauskas\CodingTaskMariusBudrauskas\obj\Debug\CodingTaskMariusBudrauskas.csproj.CoreCompileInputs.cache
+C:\Users\Marius\source\repos\CodingTaskMariusBudrauskas\CodingTaskMariusBudrauskas\obj\Debug\CodingTaskMariusBudrauskas.exe
+C:\Users\Marius\source\repos\CodingTaskMariusBudrauskas\CodingTaskMariusBudrauskas\obj\Debug\CodingTaskMariusBudrauskas.pdb
